@@ -34,7 +34,7 @@ async def help(event):
     if event.sender_id in SUDO_USERS:
         try:
           await event.client.send_file(event.chat_id,
-              "https://telegra.ph/file/83db3b7786ffa9948962b.jpg",
+              "https://telegra.ph/file/0a90b9ca23989258de472.jpg",
               caption=HELP_STRING,
               buttons=HELP_BUTTON
               )
