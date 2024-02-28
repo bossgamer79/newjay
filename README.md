@@ -7,7 +7,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/Officialjay_store"><img src="https://telegra.ph/file/83db3b7786ffa9948962b.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Officialjay_store"><img src="https://telegra.ph/file/0a90b9ca23989258de472.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using this op JAY BOTS. That is the greatest pleasure we have !
